@@ -1,0 +1,10 @@
+
+body {
+    background: url("img/bg.jpeg") no-repeat center center fixed;
+    max-height: 100%;
+    max-width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
